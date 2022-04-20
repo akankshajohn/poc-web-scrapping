@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security",
+    "json2xls": "^0.1.2",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  },
+  "name": "demo_scrap",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "poc_scrap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon poc_scrap.js"
+  },
+  "author": "akanksha-john",
+  "license": "ISC"
+}
